@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CBDDFW_Homework" />
+        <module name="CBDDFW_Homework4" />
       </profile>
     </annotationProcessing>
   </component>
